@@ -1,0 +1,30 @@
+﻿{
+	"version": 1720327624,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/pp-sheet0.png",
+		"images/bggame-sheet0.png",
+		"images/timer-sheet0.png",
+		"images/score-sheet0.png",
+		"images/spacenyawa-sheet0.png",
+		"images/bsoal-sheet0.png",
+		"images/urutan-sheet0.png",
+		"images/bargame-sheet0.png",
+		"images/barjawaban-sheet0.png",
+		"images/nyawa.png",
+		"images/nyawahilang.png",
+		"images/papanskor-sheet0.png",
+		"images/lanjut-sheet0.png",
+		"media/musik-backsound-instrumen-ceria-nocopyright-gratis-happy-instrumental-sand-castle-128-ytshorts.savetube.me.m4a",
+		"media/musik-backsound-instrumen-ceria-nocopyright-gratis-happy-instrumental-sand-castle-128-ytshorts.savetube.me.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
